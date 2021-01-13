@@ -3,7 +3,7 @@
 Supporting information for
 DEMOGRAPHIC PERSPECTIVES ON THE RISE OF LONGEVITY
 by
-James W. VAUPEL - Francisco VILLAVICENCIO - Marie-Pier BERGERON-BOUCHER
+James W. VAUPEL, Francisco VILLAVICENCIO, and Marie-Pier BERGERON-BOUCHER
 published at
 Proceedings of the National Academy of Sciences of USA (PNAS), 2021
 
