@@ -1,6 +1,7 @@
 # Reply to Permanyer et al.: The uncertainty surrounding healthy life expectancy indicators
 
-Supporting information for REPLY TO PERMANYER ET AL.: THE UNCERTAINTY SURROUNDING HEALTHY LIFE EXPECTANCY INDICATORS by Francisco VILLAVICENCIO, Marie-Pier BERGERON-BOUCHER, and James W. VAUPEL, published at Proceedings of the National Academy of Sciences of USA (PNAS) 118(46): e2115544118 (2021). https://doi.org/10.1073/pnas.2115544118.
+Supporting information for 
+> Villavicencio F, Bergeron-Boucher MP, Vaupel JW (2021). Reply to Permanyer et al.: The uncertainty surrounding healthy life expectancy indicators. *Proceedings of the National Academy of Sciences of USA* 118(46): e2115544118. DOI: https://doi.org/10.1073/pnas.2115544118.
 
 This folder contains the following files:
 
